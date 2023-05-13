@@ -11,7 +11,10 @@
     "I love candles",
     "my favorite hobbies outside of computers are drawing & listening to music",
     "my birthday is on February 22",
-    "I have 3 dogs, two German shepherds & one pitbull"
+    "I have 3 dogs, two German shepherds & one pitbull",
+    "my eyes are brown",
+    "I can speak Spanish",
+    "I can't breathe"
   ]
   let info = infoDump[Math.floor((Math.random()*infoDump.length))]
 </script>
@@ -25,5 +28,5 @@
     There's not really anything interesting to say about myself, however, {info}.
   </p>
   <h2 class="text-xl text-slate-300 text-center font-bold pt-4">Reach me</h2>
-  <h2 class="text-lg text-slate-300 text-center -mt-2 pb-6"><a class="hover:text-sky-400" href="https://github.com/minotaa">GitHub</a> | <a class="hover:text-sky-400" href="https://twitter.com/minotadev">Twitter</a> | <a class="hover:text-sky-400" href="https://ko-fi.com/minota">Ko-fi</a> | <a class="hover:text-sky-400" href="https://namemc.com/ec3b5621-7313-4b7e-a8e3-91b3d63c4e24">Minecraft</a> | <a class="hover:text-sky-400" href="https://twitch.tv/xMinota">Twitch</a></h2>
+  <h2 class="text-lg text-slate-300 text-center -mt-2 pb-6">minota#0887 | <a class="hover:text-sky-400" href="https://github.com/minotaa">GitHub</a> | <a class="hover:text-sky-400" href="https://twitter.com/minotadev">Twitter</a> | <a class="hover:text-sky-400" href="https://ko-fi.com/minota">Ko-fi</a> | <a class="hover:text-sky-400" href="https://namemc.com/ec3b5621-7313-4b7e-a8e3-91b3d63c4e24">Minecraft</a> | <a class="hover:text-sky-400" href="https://twitch.tv/xMinota">Twitch</a></h2>
 </div>
