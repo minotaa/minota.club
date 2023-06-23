@@ -29,5 +29,5 @@
     There's not really anything interesting to say about myself, however, {info}.
   </p>
   <h2 class="text-xl text-slate-300 text-center font-bold pt-4">Reach me</h2>
-  <h2 class="text-lg text-slate-300 text-center -mt-2 pb-6">Discord: <code>minota#0887</code> | <a class="hover:text-sky-400" href="https://github.com/minotaa">GitHub</a> | <a class="hover:text-sky-400" href="https://twitter.com/minotadev">Twitter</a> | <a class="hover:text-sky-400" href="https://ko-fi.com/minota">Ko-fi</a> | <a class="hover:text-sky-400" href="https://namemc.com/ec3b5621-7313-4b7e-a8e3-91b3d63c4e24">Minecraft</a> | <a class="hover:text-sky-400" href="https://twitch.tv/xMinota">Twitch</a></h2>
+  <h2 class="text-lg text-slate-300 text-center -mt-2 pb-6">Discord: <code>minota</code> | <a class="hover:text-sky-400" href="https://github.com/minotaa">GitHub</a> | <a class="hover:text-sky-400" href="https://twitter.com/minotadev">Twitter</a> | <a class="hover:text-sky-400" href="https://ko-fi.com/minota">Ko-fi</a> | <a class="hover:text-sky-400" href="https://namemc.com/ec3b5621-7313-4b7e-a8e3-91b3d63c4e24">Minecraft</a> | <a class="hover:text-sky-400" href="https://twitch.tv/xMinota">Twitch</a></h2>
 </div>
