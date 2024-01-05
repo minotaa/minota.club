@@ -24,7 +24,7 @@
   <h2 class="text-lg text-center text-slate-500 -mt-4 -mb-6">he/him</h2>
   <h2 class="text-xl text-slate-300 text-center font-bold pt-4">About me</h2>
   <p class="text-lg place-self-center sm:max-w-lg text-slate-200 text-center -mt-2">
-    Hello, my name is Juan Pichardo, I hail from New York. My nationality is Dominican & Honduran.
+    Hello, I hail from New York. My nationality is Dominican & Honduran.
     I currently attend high school & I intend to study Software Engineering in college.
     There's not really anything interesting to say about myself, however, {info}.
   </p>
