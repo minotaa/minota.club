@@ -19,15 +19,6 @@
   let info = infoDump[Math.floor((Math.random()*infoDump.length))]
 </script>
 
-<div class="md:container md:mx-auto flex justify-items-center mx-auto flex-col p-8 gap-4">
-  <h1 class="text-2xl text-slate-200 text-center font-bold pt-6"><strong class="text-sky-300">minota</strong>.club</h1>
-  <h2 class="text-lg text-center text-slate-500 -mt-4 -mb-6">he/him</h2>
-  <h2 class="text-xl text-slate-300 text-center font-bold pt-4">About me</h2>
-  <p class="text-lg place-self-center sm:max-w-lg text-slate-200 text-center -mt-2">
-    Hello, I hail from New York. My nationality is Dominican & Honduran.
-    I currently attend high school & I intend to study Software Engineering in college.
-    There's not really anything interesting to say about myself, however, {info}.
-  </p>
-  <h2 class="text-xl text-slate-300 text-center font-bold pt-4">Reach me</h2>
-  <h2 class="text-lg text-slate-300 text-center -mt-2 pb-6">Discord: <code>minota</code> | <a class="hover:text-sky-400" href="https://github.com/minotaa">GitHub</a> | <a class="hover:text-sky-400" href="https://twitter.com/minotadev">Twitter</a> | <a class="hover:text-sky-400" href="https://ko-fi.com/minota">Ko-fi</a> | <a class="hover:text-sky-400" href="https://namemc.com/ec3b5621-7313-4b7e-a8e3-91b3d63c4e24">Minecraft</a> | <a class="hover:text-sky-400" href="https://twitch.tv/xMinota">Twitch</a></h2>
+<div class="pt-28 flex justify-center items-center">
+  <img src="/photos/locked.webp" height="600" width="600"/>
 </div>
