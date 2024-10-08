@@ -13,7 +13,7 @@
 <div class="md:container md:mx-auto flex mx-auto flex-col pt-8 gap-4 mb-4">
   <div class="flex md:flex-row flex-col">
     <h1 class="text-2xl text-slate-200 font-bold text-center md:text-left"><strong class="text-sky-300">minota</strong></h1>
-    <h2 class="text-lg text-slate-500 ml-3 mt-1 text-center md:text-left">he/him</h2>
+    <h2 class="text-lg text-slate-500 md:ml-3 mt-1 text-center md:text-left">he/him</h2>
   </div>
   <h2 class="text-lg text-slate-300 -mt-2 mb-2 text-center md:text-left">
     <a class="transition-colors hover:text-sky-400" title="Click to copy to your clipboard!" href="#" on:click={copyToClipboard}>Discord</a> /
