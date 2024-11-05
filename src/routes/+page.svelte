@@ -25,7 +25,7 @@
   <h1 class="text-xl text-slate-200 font-bold text-center md:text-left">projects</h1>
   <div class="flex flex-col flex-wrap md:flex-row gap-2 md:place-self-start place-self-center">
     <div class="shadow-lg rounded-lg p-4 w-80 pr-8 h-200 bg-zinc-900 border-2 border-zinc-700">
-      <h2 class="text-slate-300 text-lg font-bold">applejuice (2022 - 2024)</h2>
+      <h2 class="text-slate-300 text-lg font-bold">Xestra UHC; Notzo UHC; applejuice (2018 - 2024)</h2>
       <h3 class="mt-2 text-zinc-400 text-md italic mb-4">
         applejuice was an <a class="transition-colors text-sky-300 hover:text-sky-400" target="_blank" href="https://minecraft.fandom.com/wiki/Tutorials/Ultra_hardcore_survival">Ultra Hardcore</a> (or UHC) Minecraft server I made in 2022. 
         It's notable for being the first UHC server I made in Kotlin. The source code for the plugin used can be found below.
@@ -33,6 +33,15 @@
       <a title="Open applejuice source code" href="https://github.com/applejuice-server/Kraftwerk" target="_blank" class="shadow-lg rounded-xl pt-2 pb-2 pl-4 pr-4 bg-sky-400 hover:bg-sky-500 transition-colors">Source Code</a>
     </div>
   
+    <div class="shadow-lg rounded-lg p-4 w-80 pr-8 h-200 bg-zinc-900 border-2 border-zinc-700">
+      <h2 class="text-slate-300 text-lg font-bold">piglin.club (2023)</h2>
+      <h3 class="mt-2 text-zinc-400 text-md italic mb-4">
+        piglin.club was the second server I made during 2022/2023. It's primarily a 1.20 Towny server that has elements of RPGs like skills, custom crafts, etc.
+        It largely was ended due to running into problems thinking of ways to make the game more creative.
+      </h3>
+      <a title="Open applejuice source code" href="https://github.com/PiglinClub/Brimstone" target="_blank" class="shadow-lg rounded-xl pt-2 pb-2 pl-4 pr-4 bg-sky-400 hover:bg-sky-500 transition-colors">Source Code</a>
+    </div>
+
     <div class="shadow-lg rounded-lg p-4 pr-8 w-80 h-200 bg-zinc-900 border-2 border-zinc-700">
       <h2 class="text-slate-300 text-lg font-bold">wushi (2019? - 2021)</h2>
       <h3 class="mt-2 text-zinc-400 text-md italic mb-4">
