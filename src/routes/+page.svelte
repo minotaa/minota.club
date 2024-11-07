@@ -18,7 +18,7 @@
   <h2 class="text-lg text-slate-300 -mt-2 mb-2 text-center md:text-left">
     <a class="transition-colors hover:text-sky-400" title="Click to copy to your clipboard!" href="#" on:click={copyToClipboard}>Discord</a> /
     <a class="transition-colors hover:text-sky-400" target="_blank" href="https://github.com/minotaa">GitHub</a> /
-    <a class="transition-colors hover:text-sky-400" target="_blank" href="https://twitter.com/minota_cc">Twitter</a> /
+    <a class="transition-colors hover:text-sky-400" target="_blank" href="https://bsky.app/profile/minota.cc">Bluesky</a> /
     <a class="transition-colors hover:text-sky-400" target="_blank" href="https://ko-fi.com/minota">Ko-fi</a> /
     <a class="transition-colors hover:text-sky-400" href="mailto:me@minota.cc">Email</a>
   </h2>
