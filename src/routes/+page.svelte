@@ -39,7 +39,7 @@
         piglin.club was the second server I made during 2022/2023. It's primarily a 1.20 Towny server that has elements of RPGs like skills, custom crafts, etc.
         It largely was ended due to running into problems thinking of ways to make the game more creative.
       </h3>
-      <a title="Open applejuice source code" href="https://github.com/PiglinClub/Brimstone" target="_blank" class="shadow-lg rounded-xl pt-2 pb-2 pl-4 pr-4 bg-sky-400 hover:bg-sky-500 transition-colors">Source Code</a>
+      <a title="Open piglin.club source code" href="https://github.com/PiglinClub/Brimstone" target="_blank" class="shadow-lg rounded-xl pt-2 pb-2 pl-4 pr-4 bg-sky-400 hover:bg-sky-500 transition-colors">Source Code</a>
     </div>
 
     <div class="shadow-lg rounded-lg p-4 pr-8 w-80 h-200 bg-zinc-900 border-2 border-zinc-700">
@@ -60,6 +60,18 @@
         <a title="Get Beachside Tactics" href="https://apps.apple.com/us/app/beachside-tactics/id6596775495?itscg=30200&itsct=apps_box_badge&mttnsubad=6596775495" target="_blank" class="shadow-lg rounded-xl pt-2 pb-2 mt-3 pl-4 pr-4 bg-sky-400 hover:bg-sky-500 transition-colors">App Store</a>
       </div>
     </div>
+
+    <div class="shadow-lg rounded-lg p-4 pr-8 w-80 h-200 bg-zinc-900 border-2 border-zinc-700">
+      <h2 class="text-slate-300 text-lg font-bold">Myrkwood (or Mirkwood) (2024-2025)</h2>
+      <h3 class="mt-2 text-zinc-400 text-md italic mb-4">
+        Murkwood? Myrkwood is a game inspired by an old Flash game, Three Goblets, in which you progress through the game by automatically fighting enemies and crafting items from its drops. Now on the App Store.
+      </h3>
+      <div class="flex flex-col w-fit place-end">
+        <a title="Open Myrkwood source code" href="https://github.com/minotaa/myrkwood" target="_blank" class="shadow-lg rounded-xl pt-2 pb-2 pl-4 pr-4 bg-sky-400 hover:bg-sky-500 transition-colors">Source Code</a>
+        <a title="Get Myrkwood" href="https://apps.apple.com/us/app/myrkwood/id6738539616" target="_blank" class="shadow-lg rounded-xl pt-2 pb-2 mt-3 pl-4 pr-4 bg-sky-400 hover:bg-sky-500 transition-colors">App Store</a>
+      </div>
+    </div>
+
     <div class="shadow-lg rounded-lg p-4 pr-8 w-80 h-200 bg-zinc-900 border-2 border-zinc-700">
       <h2 class="text-slate-300 text-lg font-bold">ultrahardcore.org (2022 - 2024)</h2>
       <h3 class="mt-2 text-zinc-400 text-md italic mb-4">
