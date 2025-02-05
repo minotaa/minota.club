@@ -16,7 +16,7 @@
     <h2 class="text-lg text-slate-500 md:ml-3 mt-1 text-center md:text-left">he/him</h2>
   </div>
   <h2 class="text-lg text-slate-300 -mt-2 mb-2 text-center md:text-left">
-    <a class="transition-colors hover:text-sky-400" title="Click to copy to your clipboard!" href="#" on:click={copyToClipboard}>Discord</a> /
+    <a class="transition-colors hover:text-sky-400" target="_blank" href="https://discord.gg/8WAPWCFu8m">Discord</a> /
     <a class="transition-colors hover:text-sky-400" target="_blank" href="https://github.com/minotaa">GitHub</a> /
     <a class="transition-colors hover:text-sky-400" target="_blank" href="https://bsky.app/profile/minota.cc">Bluesky</a> /
     <a class="transition-colors hover:text-sky-400" target="_blank" href="https://ko-fi.com/minota">Ko-fi</a> /
