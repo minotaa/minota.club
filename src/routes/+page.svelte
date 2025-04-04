@@ -56,7 +56,6 @@
         Internally known as Rhode Island. It is my first available Godot game. It's a small fishing game where you fish for fish to get more rods, baits, etc. It's still available on the App Store right now!
       </h3>
       <div class="flex flex-col w-fit place-end">
-        <a title="Open Beachside Tactics source code" href="https://github.com/minotaa/rhode-island" target="_blank" class="shadow-lg rounded-xl pt-2 pb-2 pl-4 pr-4 bg-sky-400 hover:bg-sky-500 transition-colors">Source Code</a>
         <a title="Get Beachside Tactics" href="https://apps.apple.com/us/app/beachside-tactics/id6596775495?itscg=30200&itsct=apps_box_badge&mttnsubad=6596775495" target="_blank" class="shadow-lg rounded-xl pt-2 pb-2 mt-3 pl-4 pr-4 bg-sky-400 hover:bg-sky-500 transition-colors">App Store</a>
       </div>
     </div>
@@ -67,8 +66,18 @@
         Murkwood? Myrkwood is a game inspired by an old Flash game, Three Goblets, in which you progress through the game by automatically fighting enemies and crafting items from its drops. Now on the App Store.
       </h3>
       <div class="flex flex-col w-fit place-end">
-        <a title="Open Myrkwood source code" href="https://github.com/minotaa/myrkwood" target="_blank" class="shadow-lg rounded-xl pt-2 pb-2 pl-4 pr-4 bg-sky-400 hover:bg-sky-500 transition-colors">Source Code</a>
         <a title="Get Myrkwood" href="https://apps.apple.com/us/app/myrkwood/id6738539616" target="_blank" class="shadow-lg rounded-xl pt-2 pb-2 mt-3 pl-4 pr-4 bg-sky-400 hover:bg-sky-500 transition-colors">App Store</a>
+      </div>
+    </div>
+
+
+    <div class="shadow-lg rounded-lg p-4 pr-8 w-80 h-200 bg-zinc-900 border-2 border-zinc-700">
+      <h2 class="text-slate-300 text-lg font-bold">Bulletlane (2025)</h2>
+      <h3 class="mt-2 text-zinc-400 text-md italic mb-4">
+        Bulletlane is the third and newest game I made, it's a car based shoot 'em up in which you defeat enemies, get powerups, and upgrade your weapons, cars, and other stuff. It was inspired by an old game I played on the App Store, now I made a new version of it. Now on the App Store.
+      </h3>
+      <div class="flex flex-col w-fit place-end">
+        <a title="Get Bulletlane" href="https://apps.apple.com/us/app/bulletlane/id6743356289" target="_blank" class="shadow-lg rounded-xl pt-2 pb-2 mt-3 pl-4 pr-4 bg-sky-400 hover:bg-sky-500 transition-colors">App Store</a>
       </div>
     </div>
 
